@@ -1,0 +1,97 @@
+body {
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 0;
+}
+
+form {
+  height: 50px;
+  padding-top: 20px;
+}
+
+#submit {
+  padding: 1px;
+  margin-left: 2px;
+  background-color: rgb(229, 246, 252);
+  color: darkblue;
+  border: darkgray;
+}
+
+#current_date {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: x-large;
+}
+
+button {
+  border: darkgray;
+  background-color: rgb(233, 246, 250);
+}
+
+.glasseffect {
+  height: 450px;
+  width: 500px;
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: 100px;
+  background-color: #e7f6f2;
+  border-radius: 15px;
+  align-items: center;
+  background: linear-gradient(135deg,
+      rgba(255, 255, 255, 0.1) rgba(255, 255, 255, 0));
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 3.37);
+  border: 1px, solid rgba(255, 255, 255, 0.18);
+  border-radius: 32px;
+}
+
+.columns {
+  height: 60px;
+  width: 470px;
+  background-color: #d0f5f2;
+  border-radius: 15px;
+  align-items: center;
+}
+
+.futureone {
+  height: 80px;
+  width: 100px;
+  background-color: #d0f5f2;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.futuretwo {
+  height: 80px;
+  width: 100px;
+  background-color: #f7f5e6;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.futurethree {
+  height: 80px;
+  width: 100px;
+  background-color: #f7f5e6;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.futurefour {
+  height: 80px;
+  width: 100px;
+  background-color: #d0f5f2;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.futurefive {
+  height: 80px;
+  width: 100px;
+  background-color: #f7f5e6;
+  border-radius: 20px;
+  align-items: center;
+}
